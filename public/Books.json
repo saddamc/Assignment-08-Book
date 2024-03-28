@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/0rQn9tr/1-The-Great-Gatsby.jpg",
+    "review": "A brilliant portrayal of the Jazz Age that explores themes of decadence, idealism, and the American Dream.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Classic", "Romance"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/f192QHv/2-To-Kill-a-Mockingbird.jpg",
+    "review": "A powerful story that addresses racial injustice and moral growth in the American South.",
+    "totalPages": 324,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": ["Drama", "Coming of Age"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/q5q2Lnt/3-1984.jpg",
+    "review": "A chilling dystopian novel that warns against totalitarianism and explores the power of propaganda.",
+    "totalPages": 328,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/DzRpkzD/4-The-Catcher-in-the-Rye.jpg",
+    "review": "A seminal work capturing the angst of adolescence and the search for identity.",
+    "totalPages": 224,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Young Adult", "Psychological"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 5,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co/xs5DvNW/5-Pride-and-Prejudice.jpg",
+    "review": "A timeless romance novel that explores themes of love, class, and societal expectations.",
+    "totalPages": 432,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Romance", "Classic"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 6,
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co/ZK74gmf/6-Harry-Potter-and-the-Sorcerer-s-Stone.jpg",
+    "review": "An enchanting tale of magic and friendship that captivates readers of all ages.",
+    "totalPages": 320,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": ["Magic", "Adventure"],
+    "publisher": "Bloomsbury Publishing",
+    "yearOfPublishing": 1997
+  }
+]
