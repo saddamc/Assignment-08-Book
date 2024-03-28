@@ -1,4 +1,5 @@
 import { CiStar } from "react-icons/ci";
+import PropTypes from 'prop-types';
 
 const Book = ({ book }) => {
     const { image, tags, bookName, author, rating, category } = book;
@@ -26,4 +27,7 @@ const Book = ({ book }) => {
     );
 };
 
+Book.propTypes = {
+    book: PropTypes.string
+}
 export default Book;
