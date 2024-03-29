@@ -29,7 +29,7 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end gap-4">
-                <button className="rounded-lg text-lg font-semibold text-white px-4 bg-[#23BE0A] p-2">Sign In</button>
+                <button className="rounded-lg text-lg font-semibold text-white px-4 bg-[#30e314] p-2">Sign In</button>
                 <button className="rounded-lg text-lg font-semibold text-white px-4 bg-[#59C6D2] p-2">Sign Up</button>
             </div>
         </div>
